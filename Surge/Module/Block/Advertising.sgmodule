@@ -455,8 +455,6 @@ URL-REGEX,^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=start,REJECT-TI
 ^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/v\d\/system_service\/splash_config - reject
 
 # Y
-# > Youtube++
-^https?:\/\/api\.catch\.gift\/api\/v\d\/pagead\/ - reject
 # > YinxiangNote - app.yinxiang.com
 ^https?:\/\/app\.yinxiang\.com\/ads\/ - reject
 # > YUNMAI - restapi.iyunmai.com
